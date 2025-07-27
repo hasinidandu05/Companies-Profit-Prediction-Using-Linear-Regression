@@ -25,10 +25,11 @@ Built a predictive model to estimate company profits based on R&D spend, adminis
 - Deploy with Streamlit for interactive UI
 
 ## Output Samples
-*(<img width="430" height="327" alt="1" src="https://github.com/user-attachments/assets/a2b47d3e-0fba-4f32-8235-e541d980dd2d" />
-)*
+*<img width="430" height="327" alt="1" src="https://github.com/user-attachments/assets/a2b47d3e-0fba-4f32-8235-e541d980dd2d" />
+*
 
 ## Author
 Hasini Dandu  
-CSE AIML Undergrad| Data Science & ML  Enthusiast
+CSE AIML Undergrad| Data Science & ML Enthusiast
+
 LinkedIn:www.linkedin.com/in/hasini-dandu-341234293 
